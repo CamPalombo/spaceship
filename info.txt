@@ -1,0 +1,1 @@
+numstars 30
